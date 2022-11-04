@@ -21,7 +21,7 @@ var FAKE_FOODS = [
   Food(
       name: 'Bánh mì xíu mại',
       urlImage:
-          'https://xebanhmithonhiky.com.vn/wp-content/uploads/2020/04/banh-mi-xiu-mai-ngon.jpg',
+          'http://cdn.tgdd.vn/Files/2021/09/06/1380700/cach-lam-banh-mi-heo-quay-thom-ngon-cho-bua-sang-dinh-duong-202201041047079624.jpg',
       duration: const Duration(minutes: 3),
       complexity: Complexity.Easy,
       ingredients: [
@@ -46,7 +46,7 @@ var FAKE_FOODS = [
   Food(
       name: 'Bánh mì heo quay',
       urlImage:
-          'https://songkhoe.medplus.vn/wp-content/uploads/2020/05/C%C3%A1ch-l%C3%A0m-b%C3%A1nh-m%C3%AC-heo-quay.jpg',
+          'http://cdn.tgdd.vn/Files/2021/09/06/1380700/cach-lam-banh-mi-heo-quay-thom-ngon-cho-bua-sang-dinh-duong-202201041047079624.jpg',
       duration: const Duration(minutes: 3),
       complexity: Complexity.Medium,
       ingredients: ['Bánh mì không', 'Heo quay', 'Dưa leo', 'Đồ chua'],
